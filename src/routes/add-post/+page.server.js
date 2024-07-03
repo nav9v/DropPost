@@ -8,7 +8,7 @@ export const actions = {
         const username = data.username;
         const content = data.content;
 
-        // Ensure that `data.image` is not undefined
+        // Ensure that `data.image` is not undefined /
         let image = null;
         if (data.image && data.image instanceof File) {
             image = Buffer.from(await data.image.arrayBuffer()).toString('base64');
