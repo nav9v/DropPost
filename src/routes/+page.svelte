@@ -58,11 +58,6 @@
             </div>
           </div>
         </div>
-        <!-- <img class="w-full" src={`data:image;base64,${post.image}`} alt="Post" /> 
-            <div class="text-sm py-2">
-            <span class="font-bold">{post.username}</span>
-            <span class="text-gray-700">{post.content}</span>
-          </div> -->
       </div>
     {/each}
   </div>
