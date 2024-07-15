@@ -26,7 +26,7 @@ This project is a hands-on learning experience combining Vite, Svelte, and Prism
 
 ## Installation
 
-1.  **Clone the repository:** `git clone [repository_url]`
+1.  **Clone the repository:** `git clone https://github.com/nav9v/sip24-sveltekit-fundamentals`
 2.  **Install dependencies:**
     *   `npm install` (or `yarn install`)
     *   `npm install prisma --save-dev`
